@@ -1,7 +1,7 @@
 {
   "name": "ictwebsite",
   "version": "1.0.0",
-  "description": "CSRIS ICT Website",
+  "description": "ICT Webpage of Cambridge Silk Road International School",
   "author": "Atabek Akbalaev",
   "private": true,
   "scripts": {
