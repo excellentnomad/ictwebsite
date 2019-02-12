@@ -32,9 +32,9 @@
         @click.stop="drawer = !drawer"
         class="hidden-md-and-up">
       </v-toolbar-side-icon>
-      <v-toolbar-title class="hidden-sm-and-down">
+      <v-toolbar-title>
         <router-link to="/" class="toolbar-title">
-              <img src="~static/csris_logo.png" style="height:40px">        
+              <img src="~static/csris_logo.png" style="height:30px">        
         </router-link>
       </v-toolbar-title>
       <v-toolbar-title class="hidden-sm-and-down">Cambridge Silk Road International School</v-toolbar-title>
